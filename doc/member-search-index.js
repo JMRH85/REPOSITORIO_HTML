@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"figuras","c":"Circulo","l":"área()","u":"%C3%A1rea()"},{"p":"figuras","c":"Circulo","l":"Circulo(double, double, double)","u":"%3Cinit%3E(double,double,double)"}];updateSearchResults();
